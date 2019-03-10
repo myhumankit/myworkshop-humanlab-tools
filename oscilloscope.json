@@ -1,0 +1,20 @@
+{
+    "tool": {
+        "full_name": "Oscilloscope",
+        "short_description": "Un oscilloscope, ou oscillographe1, est un instrument de mesure destiné à visualiser un signal électrique, le plus souvent variable au cours du temps. Il est utilisé par de nombreux scientifiques afin de visualiser soit des tensions électriques, soit diverses autres grandeurs physiques préalablement transformées en tension au moyen d'un convertisseur adapté ou de capteurs. La courbe de rendu d'un oscilloscope est appelée oscillogramme.",
+        "lang": "fr",
+        "featured_image": {
+            "image": {
+                "url": "images/oscilloscope.jpg",
+                "caption": "Oscilloscope"
+            }
+        },
+        "links": [
+            {
+                "url": "https://fr.wikipedia.org/wiki/Oscilloscope",
+                "text": "Oscilloscope sur Wikipédia",
+                "fa5_icon": "fab fa-wikipedia-w"
+            }
+        ]
+    }
+}

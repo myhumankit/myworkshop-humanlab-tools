@@ -1,0 +1,19 @@
+{
+    "tool": {
+        "full_name": "Arduino IDE",
+        "short_description": "The open-source Arduino Software (IDE) makes it easy to write code and upload it to the board. It runs on Windows, Mac OS X, and Linux. The environment is written in Java and based on Processing and other open-source software.\nThis software can be used with any Arduino board.",
+        "lang": "en",
+        "featured_image": {
+            "image": {
+                "url": "images/Arduino-IDE.png",
+                "caption": "Arduino IDE"
+            }
+        },
+        "links": [
+            {
+                "url": "https://www.arduino.cc/en/Main/Software",
+                "text": "Arduino - Software"
+            }
+        ]
+    }
+}

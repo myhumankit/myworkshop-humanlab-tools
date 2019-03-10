@@ -1,0 +1,20 @@
+{
+    "tool": {
+        "full_name": "Machine de découpe laser",
+        "short_description": "La découpe laser est un procédé de fabrication qui consiste à découper la matière grâce à une grande quantité d’énergie générée par un laser et concentrée sur une très faible surface.",
+        "lang": "fr",
+        "featured_image": {
+            "image": {
+                "url": "images/machine-laser.jpg",
+                "caption": "Machine laser"
+            }
+        },
+        "links": [
+            {
+                "url": "https://fr.wikipedia.org/wiki/D%C3%A9coupe_laser",
+                "text": "Découpe laser sur Wikipédia",
+                "fa5_icon": "fab fa-wikipedia-w"
+            }
+        ]
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "tool": {
+        "full_name": "Fer à souder",
+        "short_description": "Un fer à souder, ou plus précisément un fer à braser, est un outil chauffant permettant de réaliser une opération de brasage similaire à l'équivalent portatif de la lampe à souder (ou plutôt à braser) à gaz.",
+        "lang": "fr",
+        "featured_image": {
+            "image": {
+                "url": "images/fer-a-souder.jpg",
+                "caption": "Fer à souder"
+            }
+        },
+        "links": [
+            {
+                "url": "https://fr.wikipedia.org/wiki/Fer_%C3%A0_souder",
+                "text": "Fer à souder sur Wikipédia",
+                "fa5_icon": "fab fa-wikipedia-w"
+            }
+        ]
+    }
+}

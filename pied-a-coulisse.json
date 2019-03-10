@@ -1,0 +1,20 @@
+{
+    "tool": {
+        "full_name": "Pied à coulisse",
+        "short_description": "Un pied à coulisse est un instrument de mesure de longueur composé essentiellement de deux parties coulissantes l'une par rapport à l'autre. Cet instrument est très utilisé en mécanique, il permet de mesurer facilement les cotes extérieures d'une pièce et le diamètre d'un alésage.",
+        "lang": "fr",
+        "featured_image": {
+            "image": {
+                "url": "images/pied-a-coulisse.jpg",
+                "caption": "Pied à coulisse"
+            }
+        },
+        "links": [
+            {
+                "url": "https://fr.wikipedia.org/wiki/Pied_%C3%A0_coulisse",
+                "text": "Pied à coulisse sur Wikipédia",
+                "fa5_icon": "fab fa-wikipedia-w"
+            }
+        ]
+    }
+}

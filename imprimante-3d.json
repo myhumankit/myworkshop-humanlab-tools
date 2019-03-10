@@ -1,0 +1,20 @@
+{
+    "tool": {
+        "full_name": "Imprimante 3D",
+        "short_description": "L'impression 3D ou impression tridimensionnelle est l’appellation « grand public » des procédés de fabrication de pièces en volume par ajout ou agglomération de matière. Dans le langage industriel on préfère le terme fabrication additive. L'impression 3D permet de réaliser un objet réel : un concepteur dessine l'objet 3D grâce à un outil de conception assistée par ordinateur (CAO). Le fichier 3D obtenu est traité par un logiciel spécifique qui organise le découpage en tranches des différentes couches nécessaires à la réalisation de la pièce. Le découpage est envoyé à l'imprimante 3D qui dépose ou solidifie la matière couche par couche jusqu'à obtenir la pièce finale.",
+        "lang": "fr",
+        "featured_image": {
+            "image": {
+                "url": "images/imprimante-3d.jpg",
+                "caption": "Imprimante 3D"
+            }
+        },
+        "links": [
+            {
+                "url": "https://fr.wikipedia.org/wiki/Impression_3D",
+                "text": "Impression 3D sur Wikipédia",
+                "fa5_icon": "fab fa-wikipedia-w"
+            }
+        ]
+    }
+}

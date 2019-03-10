@@ -1,0 +1,19 @@
+{
+    "tool": {
+        "full_name": "FreeCAD",
+        "short_description": "FreeCAD est un logiciel de modélisation 3D libre pour la CAO, IAO, PLM, orientée vers le génie mécanique et le design de produits, mais qui vise également d'autres disciplines, telles que l'architecture ou d'autres branches de l'ingénierie.",
+        "lang": "fr",
+        "featured_image": {
+            "image": {
+                "url": "images/FreeCAD.png",
+                "caption": "FreeCAD"
+            }
+        },
+        "links": [
+            {
+                "url": "https://www.freecadweb.org/",
+                "text": "FreeCAD"
+            }
+        ]
+    }
+}
