@@ -1,0 +1,20 @@
+{
+    "tool": {
+        "full_name": "Paire de ciseaux",
+        "short_description": "On désigne « paire de ciseaux », l'outil comportant deux lames mobiles articulées qui glissent l'une sur l'autre pour trancher les matériaux minces. Le matériau à couper est pris entre les deux lames actionnées par les poignées.",
+        "lang": "fr",
+        "featured_image": {
+            "image": {
+                "url": "images/ciseaux.jpg",
+                "caption": "Paire de ciseaux"
+            }
+        },
+        "links": [
+            {
+                "url": "https://fr.wikipedia.org/wiki/Paire_de_ciseaux",
+                "text": "Paire de ciseaux sur Wikipédia",
+                "fa5_icon": "fab fa-wikipedia-w"
+            }
+        ]
+    }
+}
