@@ -1,0 +1,20 @@
+{
+    "tool": {
+        "full_name": "Perceuse visseuse sans fil",
+        "short_description": "Une perceuse ou foreuse est un outil qui sert à percer ou tarauder des trous dans différents matériaux à l'aide de forets.",
+        "lang": "fr",
+        "featured_image": {
+            "image": {
+                "url": "images/perceuse-visseuse-sans-fil.jpg",
+                "caption": "Perceuse visseuse sans fil"
+            }
+        },
+        "links": [
+            {
+                "url": "https://fr.wikipedia.org/wiki/Perceuse",
+                "text": "Perceuse sur Wikipédia",
+                "fa5_icon": "fab fa-wikipedia-w"
+            }
+        ]
+    }
+}
