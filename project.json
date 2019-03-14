@@ -1,0 +1,97 @@
+{
+    "project": {
+        "full_name": "Biblioth\u00e8que d'outils du Humanlab",
+        "slug": "myworkshop-humanlab-components",
+        "short_description": "Biblioth\u00e8que d'outils du Humanlab pour l'outils de documentation MyWorkshop.",
+        "lang": "fr",
+        "license": "CC BY",
+        "about": "Biblioth\u00e8que d'outils du Humanlab pour l'outils de documentation MyWorkshop.\nCe document a \u00e9t\u00e9 g\u00e9n\u00e9r\u00e9 automatiquement pour faciliter la r\u00e9daction de documentation \u00e0 partir des outils disponibles au Humanlab.",
+        "featured_images": [
+            {
+                "image": {
+                    "url": "images/tools.jpg",
+                    "caption": "Tools"
+                }
+            }
+        ],
+        "status": "published",
+        "contributors": [
+            {
+                "full_name": "Julien Lebunetel",
+                "role": "Responsable de la documentation",
+                "github_username": "jlebunetel",
+                "twitter_username": "jlebunetel"
+            }
+        ],
+        "steps": [
+            {
+                "title": "Biblioth\u00e8que d'outils du Humanlab",
+                "duration": 300,
+                "content": "Liste d'outils g\u00e9n\u00e9r\u00e9e automatiquement.",
+                "inputs": [
+                    {
+                        "tool": {
+                            "slug": "Arduino-IDE",
+                            "quantity": 1
+                        }
+                    },
+                    {
+                        "tool": {
+                            "slug": "FreeCAD",
+                            "quantity": 1
+                        }
+                    },
+                    {
+                        "tool": {
+                            "slug": "ciseaux",
+                            "quantity": 1
+                        }
+                    },
+                    {
+                        "tool": {
+                            "slug": "fer-a-souder",
+                            "quantity": 1
+                        }
+                    },
+                    {
+                        "tool": {
+                            "slug": "imprimante-3d",
+                            "quantity": 1
+                        }
+                    },
+                    {
+                        "tool": {
+                            "slug": "machine-laser",
+                            "quantity": 1
+                        }
+                    },
+                    {
+                        "tool": {
+                            "slug": "oscilloscope",
+                            "quantity": 1
+                        }
+                    },
+                    {
+                        "tool": {
+                            "slug": "perceuse-visseuse-sans-fil",
+                            "quantity": 1
+                        }
+                    },
+                    {
+                        "tool": {
+                            "slug": "pied-a-coulisse",
+                            "quantity": 1
+                        }
+                    }
+                ]
+            }
+        ],
+        "links": [
+            {
+                "url": "https://github.com/myhumankit/myworkshop-humanlab-tools",
+                "text": "code source de la documentation sur GitHub",
+                "fa5_icon": "fab fa-github"
+            }
+        ]
+    }
+}
