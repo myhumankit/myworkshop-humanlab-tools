@@ -18,9 +18,7 @@ files.sort()
 # generate a list of input components
 for file in files:
     if (file[-4:] == "json") and (file != "project.json"):
-        project["project"]["steps"][0]["inputs"].append(
-            {"tool": {"slug": file[:-5], "quantity": 1}}
-        )
+        project["project"]["steps"][0]["inputs"].append({"tool": {"slug": file[:-5]}})
 
 # update file
 with open("project.json", "w") as outfile:

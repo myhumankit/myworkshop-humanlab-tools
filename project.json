@@ -31,56 +31,47 @@
                 "inputs": [
                     {
                         "tool": {
-                            "slug": "Arduino-IDE",
-                            "quantity": 1
+                            "slug": "Arduino-IDE"
                         }
                     },
                     {
                         "tool": {
-                            "slug": "FreeCAD",
-                            "quantity": 1
+                            "slug": "FreeCAD"
                         }
                     },
                     {
                         "tool": {
-                            "slug": "ciseaux",
-                            "quantity": 1
+                            "slug": "ciseaux"
                         }
                     },
                     {
                         "tool": {
-                            "slug": "fer-a-souder",
-                            "quantity": 1
+                            "slug": "fer-a-souder"
                         }
                     },
                     {
                         "tool": {
-                            "slug": "imprimante-3d",
-                            "quantity": 1
+                            "slug": "imprimante-3d"
                         }
                     },
                     {
                         "tool": {
-                            "slug": "machine-laser",
-                            "quantity": 1
+                            "slug": "machine-laser"
                         }
                     },
                     {
                         "tool": {
-                            "slug": "oscilloscope",
-                            "quantity": 1
+                            "slug": "oscilloscope"
                         }
                     },
                     {
                         "tool": {
-                            "slug": "perceuse-visseuse-sans-fil",
-                            "quantity": 1
+                            "slug": "perceuse-visseuse-sans-fil"
                         }
                     },
                     {
                         "tool": {
-                            "slug": "pied-a-coulisse",
-                            "quantity": 1
+                            "slug": "pied-a-coulisse"
                         }
                     }
                 ]
