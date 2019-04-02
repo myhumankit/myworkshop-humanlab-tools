@@ -1,0 +1,13 @@
+{
+    "tool": {
+        "full_name": "Cutter",
+        "short_description": "Un couteau à lame rétractable, cutter ou stylet est un outil qui permet de couper des matériaux fins et peu résistants. Il est en général muni d'une lame mobile qui est masquée lorsque l'objet n'est pas utilisé (pour plus de sécurité).",
+        "lang": "fr",
+        "featured_image": {
+            "image": {
+                "url": "images/cutter.jpg",
+                "caption": "Cutter"
+            }
+        }
+    }
+}
