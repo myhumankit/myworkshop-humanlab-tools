@@ -46,6 +46,11 @@
                     },
                     {
                         "tool": {
+                            "slug": "cutter"
+                        }
+                    },
+                    {
+                        "tool": {
                             "slug": "fer-a-souder"
                         }
                     },
