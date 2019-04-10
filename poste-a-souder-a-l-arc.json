@@ -1,0 +1,13 @@
+{
+    "tool": {
+        "full_name": "poste-a-souder-a-l-arc",
+        "short_description": "Le soudage TIG est un procédé de soudage à l'arc avec une électrode non fusible, en présence d'un métal d'apport si besoin. TIG est un acronyme de Tungsten Inert Gas, où Tungsten (Tungstène) désigne l'électrode et Inert Gas (Gaz inerte) le type de gaz plasmagène utilisé. L'arc électrique se crée entre l'électrode et la pièce à souder qui est protégée par un gaz ou un mélange de gaz rares tels que l'argon et l'hélium. De fait, l’arc électrique remplace la flamme du chalumeau traditionnel. La soudure à l’arc s’appuie sur l’élévation de la température des pièces à assembler jusqu'au point de fusion grâce au passage d’un courant électrique alternatif ou continu1. ",
+        "lang": "fr",
+        "featured_image": {
+            "image": {
+                "url": "images/poste-a-souder-a-l-arc.jpg",
+                "caption": "poste à souder à l'arc"
+            }
+        }
+    }
+}
