@@ -1,0 +1,13 @@
+{
+    "tool": {
+        "full_name": "touret-a-meuler",
+        "short_description": "outil mettant en action deux meules autour du même axe, utilisé pour ébavurer, affûter, etc.",
+        "lang": "fr",
+        "featured_image": {
+            "image": {
+                "url": "images/touret-a-meuler.gif",
+                "caption": "touret à meuler"
+            }
+        }
+    }
+}
