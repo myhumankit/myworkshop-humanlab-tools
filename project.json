@@ -93,6 +93,11 @@
                         "tool": {
                             "slug": "colle-neoprene"
                         }
+                    },
+					{
+                        "tool": {
+                            "slug": "colle-cyano"
+                        }
                     }
                 ],
                 "content": "Liste d'outils g\u00e9n\u00e9r\u00e9e automatiquement."

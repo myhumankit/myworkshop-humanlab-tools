@@ -1,0 +1,13 @@
+{
+    "tool": {
+        "full_name": "Colle cyano",
+        "short_description": "Le 2-cyanoacrylate de méthyle est un cyanoacrylate de formule brute C5H5NO2. Ce monomère est une des formes de la colle dite « instantanée », plus connue sous le nom commercial de Super Glue.",
+        "lang": "fr",
+        "featured_image": {
+            "image": {
+                "url": "images/colle-cyano.jpg",
+                "caption": "Colle cyano"
+            }
+        }
+    }
+}
