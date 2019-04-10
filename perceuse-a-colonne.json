@@ -1,12 +1,12 @@
 {
     "tool": {
-        "full_name": "perceuse-a-colonne",
+        "full_name": "Perceuse à colonne",
         "short_description": "Une perceuse à colonne est une machine-outil d'atelier fixée sur un bâti, un établi ou au sol. Elle permet des perçages verticaux précis et importants (diamètres pouvant aller jusqu'à 30 millimètres dans l'acier ordinaire). ",
         "lang": "fr",
         "featured_image": {
             "image": {
                 "url": "images/perceuse-a-colonne.jpg",
-                "caption": "perceuse à colonne"
+                "caption": "Perceuse à colonne"
             }
         }
     }
