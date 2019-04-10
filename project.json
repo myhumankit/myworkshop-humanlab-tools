@@ -88,6 +88,11 @@
                         "tool": {
                             "slug": "meuleuse"
                         }
+                    },
+					{
+                        "tool": {
+                            "slug": "poste-a-souder-a-l-arc"
+                        }
                     }
                 ]
             }
