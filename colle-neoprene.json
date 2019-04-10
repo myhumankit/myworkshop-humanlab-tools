@@ -1,0 +1,13 @@
+{
+    "tool": {
+        "full_name": "Colle néoprène",
+        "short_description": "La colle néoprène est un type de colle, surtout utilisée pour coller des mousses plastiques, des stratifiés, des panneaux métalliques1. Elle permet aussi d'assembler des supports de nature différentes (métal sur bois, liège sur plâtre, bois sur ciment, etc.)",
+        "lang": "fr",
+        "featured_image": {
+            "image": {
+                "url": "images/colle-neoprene.jpg",
+                "caption": "Colle néoprène"
+            }
+        }
+    }
+}
