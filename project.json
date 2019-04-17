@@ -1,27 +1,46 @@
 {
     "project": {
-        "lang": "fr",
-        "slug": "myworkshop-humanlab-components",
+        "featured_images": [
+            {
+                "image": {
+                    "caption": "Tools",
+                    "url": "images/tools.jpg"
+                }
+            }
+        ],
+        "about": "Biblioth\u00e8que d'outils du Humanlab pour l'outils de documentation MyWorkshop.\nCe document a \u00e9t\u00e9 g\u00e9n\u00e9r\u00e9 automatiquement pour faciliter la r\u00e9daction de documentation \u00e0 partir des outils disponibles au Humanlab.",
+        "short_description": "Biblioth\u00e8que d'outils du Humanlab pour l'outils de documentation MyWorkshop.",
+        "full_name": "Biblioth\u00e8que d'outils du Humanlab",
         "status": "published",
         "links": [
             {
-                "fa5_icon": "fab fa-github",
                 "text": "code source de la documentation sur GitHub",
-                "url": "https://github.com/myhumankit/myworkshop-humanlab-tools"
+                "url": "https://github.com/myhumankit/myworkshop-humanlab-tools",
+                "fa5_icon": "fab fa-github"
             }
         ],
-        "full_name": "Biblioth\u00e8que d'outils du Humanlab",
-        "short_description": "Biblioth\u00e8que d'outils du Humanlab pour l'outils de documentation MyWorkshop.",
-        "license": "CC BY",
-        "about": "Biblioth\u00e8que d'outils du Humanlab pour l'outils de documentation MyWorkshop.\nCe document a \u00e9t\u00e9 g\u00e9n\u00e9r\u00e9 automatiquement pour faciliter la r\u00e9daction de documentation \u00e0 partir des outils disponibles au Humanlab.",
+        "contributors": [
+            {
+                "twitter_username": "jlebunetel",
+                "full_name": "Julien Lebunetel",
+                "github_username": "jlebunetel",
+                "role": "Responsable de la documentation"
+            }
+        ],
         "steps": [
             {
                 "duration": 300,
+                "content": "Liste d'outils g\u00e9n\u00e9r\u00e9e automatiquement.",
                 "title": "Biblioth\u00e8que d'outils du Humanlab",
                 "inputs": [
                     {
                         "tool": {
                             "slug": "Arduino-IDE"
+                        }
+                    },
+                    {
+                        "tool": {
+                            "slug": "Cura"
                         }
                     },
                     {
@@ -32,6 +51,16 @@
                     {
                         "tool": {
                             "slug": "ciseaux"
+                        }
+                    },
+                    {
+                        "tool": {
+                            "slug": "colle-cyano"
+                        }
+                    },
+                    {
+                        "tool": {
+                            "slug": "colle-neoprene"
                         }
                     },
                     {
@@ -91,33 +120,14 @@
                     },
 					{
                         "tool": {
-                            "slug": "colle-neoprene"
-                        }
-                    },
-					{
-                        "tool": {
-                            "slug": "colle-cyano"
+                            "slug": "Cura"
                         }
                     }
-                ],
-                "content": "Liste d'outils g\u00e9n\u00e9r\u00e9e automatiquement."
+                ]
             }
         ],
-        "featured_images": [
-            {
-                "image": {
-                    "caption": "Tools",
-                    "url": "images/tools.jpg"
-                }
-            }
-        ],
-        "contributors": [
-            {
-                "github_username": "jlebunetel",
-                "full_name": "Julien Lebunetel",
-                "role": "Responsable de la documentation",
-                "twitter_username": "jlebunetel"
-            }
-        ]
+        "lang": "fr",
+        "license": "CC BY",
+        "slug": "myworkshop-humanlab-components"
     }
 }
