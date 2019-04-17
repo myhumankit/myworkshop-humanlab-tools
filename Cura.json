@@ -1,0 +1,19 @@
+{
+    "tool": {
+        "full_name": "Cura",
+        "short_description": "Cura est un logiciel qui prépare les modèles pour l'impression 3D .",
+        "lang": "fr",
+        "featured_image": {
+            "image": {
+                "url": "images/Cura.png",
+                "caption": "Cura"
+            }
+        },
+        "links": [
+            {
+                "url": "https://ultimaker.com/en/products/ultimaker-cura-software",
+                "text": "Cura"
+            }
+        ]
+    }
+}
