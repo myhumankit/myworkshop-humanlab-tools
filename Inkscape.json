@@ -1,12 +1,19 @@
 {
     "tool": {
         "full_name": "Inkscape",
-        "short_description": "Inkscape est un logiciel libre de dessin vectoriel sous licence GNU GPL. Il gère des fichiers conformes avec les standards XML, SVG et CSS du W3C. ",
+        "short_description": "Inkscape est un logiciel libre de dessin vectoriel sous licence GNU GPL. Il gère des fichiers conformes avec les standards XML, SVG et CSS du W3C.",
         "lang": "fr",
         "featured_image": {
             "image": {
                 "url": "images/Inkscape.png",
-               }
-        }
+                "caption": "Inkscape"
+            }
+        },
+        "links": [
+            {
+                "url": "https://inkscape.org",
+                "text": "Page du projet Inkscape"
+            }
+        ]
     }
 }

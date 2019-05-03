@@ -32,6 +32,16 @@
                     },
                     {
                         "tool": {
+                            "slug": "Inkscape"
+                        }
+                    },
+                    {
+                        "tool": {
+                            "slug": "brodeuse-numerique"
+                        }
+                    },
+                    {
+                        "tool": {
                             "slug": "ciseaux"
                         }
                     },
@@ -93,16 +103,6 @@
                     {
                         "tool": {
                             "slug": "poste-a-souder-a-l-arc"
-                        }
-                    },
-					{
-                        "tool": {
-                            "slug": "Inkscape"
-                        }
-                    },
-					{
-                        "tool": {
-                            "slug": "brodeuse-numerique"
                         }
                     },
                     {
