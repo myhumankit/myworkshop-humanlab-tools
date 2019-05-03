@@ -100,6 +100,11 @@
                             "slug": "Inkscape"
                         }
                     },
+					{
+                        "tool": {
+                            "slug": "brodeuse-numerique"
+                        }
+                    },
                     {
                         "tool": {
                             "slug": "touret-a-meuler"
