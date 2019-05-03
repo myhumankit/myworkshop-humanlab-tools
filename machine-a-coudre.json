@@ -1,0 +1,13 @@
+{
+    "tool": {
+        "full_name": "Machine à coudre",
+        "short_description": "Une machine à coudre est une machine, d'usage domestique ou industriel, qui exécute mécaniquement les points de couture, généralement en utilisant deux fils, le fil supérieur enfilé dans l'aiguille, et le fil inférieur venant de la canette. ",
+        "lang": "fr",
+        "featured_image": {
+            "image": {
+                "url": "images/machine-a-coudre.jpg",
+                "caption": "Machine à coudre"
+            }
+        }
+    }
+}

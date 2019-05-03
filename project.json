@@ -105,6 +105,11 @@
                             "slug": "poste-a-souder-a-l-arc"
                         }
                     },
+					 {
+                        "tool": {
+                            "slug": "machine-a-coudre"
+                        }
+                    },
                     {
                         "tool": {
                             "slug": "touret-a-meuler"
